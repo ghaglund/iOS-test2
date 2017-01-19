@@ -37,4 +37,15 @@
       </trans-unit>
     </body>
   </file>
+  <file original="iOS-test2/Localizable.strings" source-language="en" datatype="plaintext" target-language="sv">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
+    </header>
+    <body>
+      <trans-unit id="Welcome!">
+        <source>Welcome!</source>
+        <note>Welcome as a greeting</note>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>

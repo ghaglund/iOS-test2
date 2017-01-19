@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        displayLabel.text = NSLocalizedString("Welcome!", comment: "Welcome as a greeting")
     }
 
     override func didReceiveMemoryWarning() {
