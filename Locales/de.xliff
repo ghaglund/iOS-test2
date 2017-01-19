@@ -1,54 +1,40 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="iOS-test2/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="de">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
-    </header>
-    <body/>
-  </file>
-  <file original="iOS-test2/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="de">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
-    </header>
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="iOS-test2/Base.lproj/Main.storyboard" datatype="plaintext" source-language="en" target-language="de">
     <body>
       <trans-unit id="1lx-OL-Taz.text">
-        <source>Label</source>
-        <target>das Etikette</target>
+        <source xml:lang="en">Label</source>
+        <target xml:lang="de">das Etikette</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "1lx-OL-Taz";</note>
       </trans-unit>
-      <trans-unit id="Guu-KU-x0R.normalTitle">
-        <source>Button</source>
-        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "Guu-KU-x0R";</note>
-      </trans-unit>
     </body>
   </file>
-  <file original="iOS-test2/Info.plist" source-language="en" datatype="plaintext" target-language="de">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
-    </header>
+  <file original="iOS-test2/Info.plist" datatype="plaintext" source-language="en" target-language="de">
     <body>
       <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
+        <source xml:lang="en">$(PRODUCT_NAME)</source>
+        <target xml:lang="de">$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>1.0</source>
-        <target>1.0</target>
+        <source xml:lang="en">1.0</source>
+        <target xml:lang="de">1.0</target>
       </trans-unit>
     </body>
   </file>
-  <file original="iOS-test2/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="de">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
-    </header>
+  <file original="iOS-test2/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="de">
     <body>
       <trans-unit id="Hello World!">
-        <source>Hello World!</source>
+        <source xml:lang="en">Hello World!</source>
+        <target xml:lang="de">Hallo Welt!</target>
         <note>Hello World, I'm here to stay</note>
       </trans-unit>
+    </body>
+  </file>
+  <file original="iOS-test2/Localizable.strings" datatype="plaintext" source-language="en" target-language="de">
+    <body>
       <trans-unit id="Welcome!">
-        <source>Welcome!</source>
-        <target>Willkommen!</target>
+        <source xml:lang="en">Welcome!</source>
+        <target xml:lang="de">Willkommen!</target>
         <note>Welcome as a greeting</note>
       </trans-unit>
     </body>
