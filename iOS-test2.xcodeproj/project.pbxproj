@@ -22,6 +22,9 @@
 		C23690FC1E30BA0800CF9561 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		C23690FD1E30BA0800CF9561 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Main.strings; sourceTree = "<group>"; };
 		C23690FE1E30BA0900CF9561 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C23691021E30C03000CF9561 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		C23691031E30C03000CF9561 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main.strings; sourceTree = "<group>"; };
+		C23691041E30C03100CF9561 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C2FCEBA31E2FA600000C4B27 /* iOS-test2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS-test2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2FCEBA61E2FA600000C4B27 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C2FCEBA81E2FA600000C4B27 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -158,6 +161,7 @@
 			children = (
 				C23690FA1E30B9E300CF9561 /* en */,
 				C23690FE1E30BA0900CF9561 /* sv */,
+				C23691041E30C03100CF9561 /* de */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -168,6 +172,7 @@
 				C2FCEBAB1E2FA600000C4B27 /* Base */,
 				C23690F61E30B9E200CF9561 /* en */,
 				C23690FD1E30BA0800CF9561 /* sv */,
+				C23691031E30C03000CF9561 /* de */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -178,6 +183,7 @@
 				C2FCEBB01E2FA600000C4B27 /* Base */,
 				C23690F51E30B9E200CF9561 /* en */,
 				C23690FC1E30BA0800CF9561 /* sv */,
+				C23691021E30C03000CF9561 /* de */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
