@@ -33,7 +33,7 @@ class ViewController: UIViewController {
             
         } else if (counter % 4 == 3){
             
-            displayLabel.text = NSLocalizedString("What you do in this life echoes in enternity", comment: "Some bullshit quote")
+            displayLabel.text = NSLocalizedString("What you do in this life echoes in eternity", comment: "Some bullshit quote")
             
         }
         

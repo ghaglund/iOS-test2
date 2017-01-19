@@ -51,8 +51,8 @@
         <source>Welcome!</source>
         <note>Welcome as a greeting</note>
       </trans-unit>
-      <trans-unit id="What you do in this life echoes in enternity">
-        <source>What you do in this life echoes in enternity</source>
+      <trans-unit id="What you do in this life echoes in eternity">
+        <source>What you do in this life echoes in eternity</source>
         <note>Some bullshit quote</note>
       </trans-unit>
     </body>
