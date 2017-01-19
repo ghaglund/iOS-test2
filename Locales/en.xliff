@@ -26,6 +26,15 @@
       </trans-unit>
     </body>
   </file>
+  <file original="iOS-test2/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="en">
+    <body>
+      <trans-unit id="Hello World!">
+        <source xml:lang="en">Hello World!</source>
+        <target xml:lang="en">Hello World!</target>
+        <note>Hello World, I'm here to stay</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="iOS-test2/Localizable.strings" datatype="plaintext" source-language="en" target-language="en">
     <body>
       <trans-unit id="Welcome!">
