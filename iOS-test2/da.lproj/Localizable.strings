@@ -4,6 +4,9 @@
 /* Hello World, I'm here to stay */
 "Hello World!" = "Hej Verden!";
 
+/* Welcome as a greeting */
+"Welcome!" = "Wilkommen!";
+
 /* Some bullshit quote */
 "What you do in this life echoes in eternity" = "Hvad du gør i dette liv ekkoer i evigheden";
 
