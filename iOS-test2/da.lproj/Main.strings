@@ -1,3 +1,6 @@
 /* Class = "UILabel"; text = "Label"; ObjectID = "1lx-OL-Taz"; */
 "1lx-OL-Taz.text" = "mærke";
 
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Guu-KU-x0R"; */
+"Guu-KU-x0R.normalTitle" = "Tryk her!";
+
