@@ -7,6 +7,11 @@
         <target xml:lang="sv">Etikett</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "1lx-OL-Taz";</note>
       </trans-unit>
+      <trans-unit id="Guu-KU-x0R.normalTitle">
+        <source xml:lang="en">Touch me!</source>
+        <target xml:lang="sv">Tryck här!</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "Guu-KU-x0R";</note>
+      </trans-unit>
     </body>
   </file>
   <file original="iOS-test2/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="sv">
