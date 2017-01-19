@@ -1,0 +1,14 @@
+phraseapp:
+  access_token: e4d2076d4feac119093255dfad6170dcf1f2e6678f3e692b7c5f902b419c1ba1
+  project_id: 9398461e38e756758b1e3be393c2edad
+  file_format: xlf
+  push:
+    sources:
+    - file: ./Locales/<locale_name>.xliff
+      params:
+        file_format: xlf
+  pull:
+    targets:
+    - file: ./Locales/<locale_name>.xliff
+      params:
+        file_format: xlf
