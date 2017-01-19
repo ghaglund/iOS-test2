@@ -7,6 +7,11 @@
         <target xml:lang="en">Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "1lx-OL-Taz";</note>
       </trans-unit>
+      <trans-unit id="Guu-KU-x0R.normalTitle">
+        <source xml:lang="en">Button</source>
+        <target xml:lang="en">Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "Guu-KU-x0R";</note>
+      </trans-unit>
     </body>
   </file>
   <file original="iOS-test2/Info.plist" datatype="plaintext" source-language="en" target-language="en">
@@ -18,6 +23,15 @@
       <trans-unit id="CFBundleShortVersionString">
         <source xml:lang="en">1.0</source>
         <target xml:lang="en">1.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="iOS-test2/Localizable.strings" datatype="plaintext" source-language="en" target-language="en">
+    <body>
+      <trans-unit id="Welcome!">
+        <source xml:lang="en">Welcome!</source>
+        <target xml:lang="en">Welcome!</target>
+        <note>Welcome as a greeting</note>
       </trans-unit>
     </body>
   </file>
