@@ -1,59 +1,52 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="iOS-test2/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
-    </header>
-    <body/>
-  </file>
-  <file original="iOS-test2/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
-    </header>
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="iOS-test2/Base.lproj/Main.storyboard" datatype="plaintext" source-language="en" target-language="en">
     <body>
       <trans-unit id="1lx-OL-Taz.text">
-        <source>Label</source>
+        <source xml:lang="en">Label</source>
+        <target xml:lang="en">Label</target>
         <note>Class = "UILabel"; text = "Label"; ObjectID = "1lx-OL-Taz";</note>
       </trans-unit>
       <trans-unit id="Guu-KU-x0R.normalTitle">
-        <source>Button</source>
+        <source xml:lang="en">Button</source>
+        <target xml:lang="en">Button</target>
         <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "Guu-KU-x0R";</note>
       </trans-unit>
     </body>
   </file>
-  <file original="iOS-test2/Info.plist" source-language="en" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>1.0</source>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="iOS-test2/en.lproj/Localizable.strings" source-language="en" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.2.1" build-num="8C1002"/>
-    </header>
+  <file original="iOS-test2/en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="en">
     <body>
       <trans-unit id="Back to reality woops there goes gravity!">
-        <source>Back to reality woops there goes gravity!</source>
+        <source xml:lang="en">Back to reality woops there goes gravity!</source>
+        <target xml:lang="en">Back to reality woops there goes gravity!</target>
         <note>Eminem, what else?</note>
       </trans-unit>
       <trans-unit id="Hello World!">
-        <source>Hello World!</source>
+        <source xml:lang="en">Hello World!</source>
+        <target xml:lang="en">Hello World!</target>
         <note>Hello World, I'm here to stay</note>
       </trans-unit>
       <trans-unit id="Welcome!">
-        <source>Welcome!</source>
+        <source xml:lang="en">Welcome!</source>
+        <target xml:lang="en">Welcome!</target>
         <note>Welcome as a greeting</note>
       </trans-unit>
       <trans-unit id="What you do in this life echoes in eternity">
-        <source>What you do in this life echoes in eternity</source>
+        <source xml:lang="en">What you do in this life echoes in eternity</source>
+        <target xml:lang="en">What you do in this life echoes in eternity</target>
         <note>Some bullshit quote</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="iOS-test2/Info.plist" datatype="plaintext" source-language="en" target-language="en">
+    <body>
+      <trans-unit id="CFBundleName">
+        <source xml:lang="en">$(PRODUCT_NAME)</source>
+        <target xml:lang="en">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source xml:lang="en">1.0</source>
+        <target xml:lang="en">1.0</target>
       </trans-unit>
     </body>
   </file>
