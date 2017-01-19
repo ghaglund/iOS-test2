@@ -13,20 +13,24 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var displayLabel: UILabel!
     
-    var counter: Int=0;
+    var counter: Int=1;
     
     @IBAction func tapButton(_ sender: Any) {
         
         counter+=1
         
-        if (counter % 2 == 1){
+        if (counter % 3 == 1){
             
             displayLabel.text = NSLocalizedString("Hello World!", comment: "Hello World, I'm here to stay")
         
-        } else{
+        } else if (counter % 3 == 2){
             
             displayLabel.text = NSLocalizedString("Welcome!", comment: "Welcome as a greeting")
         
+        } else {
+            
+            displayLabel.text = NSLocalizedString("Back to reality woops there goes gravity!", comment: "Eminem, what else?")
+            
         }
         
     }

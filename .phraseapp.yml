@@ -4,7 +4,7 @@ phraseapp:
   file_format: xlf
   push:
     sources:
-    - file: ./Locales/<locale_name>.xliff
+    - file: ./Locales/en.xliff
       params:
         file_format: xlf
   pull:
