@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C23690F91E30B9E300CF9561 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C23690FB1E30B9E300CF9561 /* InfoPlist.strings */; };
+		C26513791E30D2C2001A355E /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C265137B1E30D2C2001A355E /* Localizable.strings */; };
 		C2FCEBA71E2FA600000C4B27 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FCEBA61E2FA600000C4B27 /* AppDelegate.swift */; };
 		C2FCEBA91E2FA600000C4B27 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2FCEBA81E2FA600000C4B27 /* ViewController.swift */; };
 		C2FCEBAC1E2FA600000C4B27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2FCEBAA1E2FA600000C4B27 /* Main.storyboard */; };
@@ -25,6 +26,9 @@
 		C23691021E30C03000CF9561 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		C23691031E30C03000CF9561 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main.strings; sourceTree = "<group>"; };
 		C23691041E30C03100CF9561 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C265137A1E30D2C2001A355E /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C265137C1E30D2D6001A355E /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C265137D1E30D2FD001A355E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		C2FCEBA31E2FA600000C4B27 /* iOS-test2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS-test2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2FCEBA61E2FA600000C4B27 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C2FCEBA81E2FA600000C4B27 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -64,6 +68,7 @@
 		C2FCEBA51E2FA600000C4B27 /* iOS-test2 */ = {
 			isa = PBXGroup;
 			children = (
+				C265137B1E30D2C2001A355E /* Localizable.strings */,
 				C23690FB1E30B9E300CF9561 /* InfoPlist.strings */,
 				C2FCEBA61E2FA600000C4B27 /* AppDelegate.swift */,
 				C2FCEBA81E2FA600000C4B27 /* ViewController.swift */,
@@ -134,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C26513791E30D2C2001A355E /* Localizable.strings in Resources */,
 				C2FCEBB11E2FA600000C4B27 /* LaunchScreen.storyboard in Resources */,
 				C23690F91E30B9E300CF9561 /* InfoPlist.strings in Resources */,
 				C2FCEBAE1E2FA600000C4B27 /* Assets.xcassets in Resources */,
@@ -164,6 +170,16 @@
 				C23691041E30C03100CF9561 /* de */,
 			);
 			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C265137B1E30D2C2001A355E /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C265137A1E30D2C2001A355E /* de */,
+				C265137C1E30D2D6001A355E /* sv */,
+				C265137D1E30D2FD001A355E /* en */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 		C2FCEBAA1E2FA600000C4B27 /* Main.storyboard */ = {
