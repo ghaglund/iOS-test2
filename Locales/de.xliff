@@ -8,7 +8,7 @@
         <note>Class = "UILabel"; text = "Label"; ObjectID = "1lx-OL-Taz";</note>
       </trans-unit>
       <trans-unit id="Guu-KU-x0R.normalTitle">
-        <source xml:lang="en">Touch me!</source>
+        <source xml:lang="en">Button</source>
         <target xml:lang="de">hier drücken</target>
         <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "Guu-KU-x0R";</note>
       </trans-unit>
