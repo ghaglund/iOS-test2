@@ -41,6 +41,7 @@ class ViewController: UIViewController {
             
         }
         
+        displayLabel.text = NSLocalizedString("Daniel", comment: "Name of gladiator")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
