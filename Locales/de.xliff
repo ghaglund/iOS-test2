@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="Welcome!">
         <source xml:lang="en">Welcome!</source>
-        <target xml:lang="de">Velkomst!</target>
+        <target xml:lang="de">Wilkommen!</target>
         <note>Welcome as a greeting</note>
       </trans-unit>
       <trans-unit id="What you do in this life echoes in eternity">
