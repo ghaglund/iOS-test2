@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="My name is Maxiums">
         <source xml:lang="en">My name is Maxiums</source>
-        <target xml:lang="da">Ich heisse Maximus</target>
+        <target xml:lang="da">Mit navn er Maximus</target>
         <note>Name of gladiator</note>
       </trans-unit>
       <trans-unit id="Welcome!">
