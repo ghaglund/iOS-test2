@@ -94,6 +94,7 @@
 				C2FCEB9F1E2FA600000C4B27 /* Sources */,
 				C2FCEBA01E2FA600000C4B27 /* Frameworks */,
 				C2FCEBA11E2FA600000C4B27 /* Resources */,
+				C2E7C4A31E37820900D16E58 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -152,6 +153,22 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		C2E7C4A31E37820900D16E58 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = /Users/gabbe/Documents/LocalizationScript;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		C2FCEB9F1E2FA600000C4B27 /* Sources */ = {
