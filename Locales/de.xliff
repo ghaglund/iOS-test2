@@ -21,6 +21,11 @@
         <target xml:lang="de">Zurück zur Realität whoops geht es schwerkraft!</target>
         <note>Eminem, what else?</note>
       </trans-unit>
+      <trans-unit id="Daniel">
+        <source xml:lang="en">Daniel</source>
+        <target xml:lang="de">Der erste Man</target>
+        <note>Name of gladiator</note>
+      </trans-unit>
       <trans-unit id="Hello World!">
         <source xml:lang="en">Hello World!</source>
         <target xml:lang="de">Hallo Welt!</target>
