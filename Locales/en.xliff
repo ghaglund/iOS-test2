@@ -53,6 +53,11 @@
         <target>Hello World!</target>
         <note>Hello World, I'm here to stay</note>
       </trans-unit>
+      <trans-unit id="My name is Maxiums">
+        <source>My name is Maxiums</source>
+        <target>My name is Maxiums</target>
+        <note>Name of gladiator</note>
+      </trans-unit>
       <trans-unit id="Welcome!">
         <source>Welcome!</source>
         <target>Welcome!</target>

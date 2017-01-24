@@ -19,21 +19,25 @@ class ViewController: UIViewController {
         
         counter+=1
         
-        if (counter % 4 == 0){
+        if (counter % 5 == 0){
             
             displayLabel.text = NSLocalizedString("Hello World!", comment: "Hello World, I'm here to stay")
         
-        } else if (counter % 4 == 1){
+        } else if (counter % 5 == 1){
             
             displayLabel.text = NSLocalizedString("Welcome!", comment: "Welcome as a greeting")
         
-        } else if (counter % 4 == 2){
+        } else if (counter % 5 == 2){
             
             displayLabel.text = NSLocalizedString("Back to reality woops there goes gravity!", comment: "Eminem, what else?")
             
-        } else if (counter % 4 == 3){
+        } else if (counter % 5 == 3){
             
             displayLabel.text = NSLocalizedString("What you do in this life echoes in eternity", comment: "Some bullshit quote")
+            
+        } else if (counter % 5 == 4){
+            
+            displayLabel.text = NSLocalizedString("My name is Maxiums", comment: "Name of gladiator")
             
         }
         
