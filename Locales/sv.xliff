@@ -26,6 +26,11 @@
         <target xml:lang="sv">Hallå Världen!</target>
         <note>Hello World, I'm here to stay</note>
       </trans-unit>
+      <trans-unit id="My name is Maxiums">
+        <source xml:lang="en">My name is Maxiums</source>
+        <target xml:lang="sv">Mitt namn är Maximus</target>
+        <note>Name of gladiator</note>
+      </trans-unit>
       <trans-unit id="Welcome!">
         <source xml:lang="en">Welcome!</source>
         <target xml:lang="sv">Välkommen!</target>
